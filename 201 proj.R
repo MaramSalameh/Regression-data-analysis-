@@ -1,5 +1,5 @@
 # ISE 201 Semester Project
-#Salameh, Williams, Ramirez, Ji Hyun
+#Salameh
 
 install.packages("leaps")
 install.packages("MASS")
